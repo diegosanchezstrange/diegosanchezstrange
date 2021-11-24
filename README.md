@@ -1,4 +1,19 @@
-### Hi there 👋
+### Hi there I´m Diego
+
+I´m currently working as a Junior Engineer at [NTT Data](https://www.nttdata.com/) and studying at [42 Madrid](https://www.42madrid.com/)
+
+# 42 Madrid Status
+
+[![dsanchez's 42 stats](https://badge42.herokuapp.com/api/stats/dsanchez)](https://github.com/JaeSeoKim/badge42)
+
+# GitHub Stats
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegosanchezstrange&show_icons=true&count_private=true&hide=contribs&theme=dark)](https://github.com/diegosanchezstrange?tab=repositories)
+
+# GitHub most used lenguages
+[![GitHub most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=diegosanchezstrange&theme=onedark&layout=compact)](https://github.com/diegosanchezstrange?tab=repositories)
+
+
+
 
 <!--
 **diegosanchezstrange/diegosanchezstrange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
