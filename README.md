@@ -4,7 +4,7 @@ I´m currently working as a Junior Engineer at [NTT Data](https://www.nttdata.co
 
 # 42 Madrid Status
 
-[![dsanchez's 42 stats](https://badge42.herokuapp.com/api/stats/dsanchez)](https://github.com/JaeSeoKim/badge42)
+[![dsanchez's 42 stats](https://badge42.vercel.app/api/v2/cl4ik6c8u003009l4qz6zfy9y/stats?cursusId=21&coalitionId=65)](https://github.com/JaeSeoKim/badge42)
 
 # GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diegosanchezstrange&show_icons=true&count_private=true&hide=contribs&theme=dark)](https://github.com/diegosanchezstrange?tab=repositories)
